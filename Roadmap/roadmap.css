@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: burlywood;
+}
+.red{
+    color: rgb(229, 0, 38);
+}
+.pink{
+    color: aqua;
+}
