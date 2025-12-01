@@ -11,3 +11,10 @@ body{
 .pink{
     color: aqua;
 }
+span{
+    border : 3px solid red;
+    color:greenyellow;
+}
+.box{
+    color:white;
+}
